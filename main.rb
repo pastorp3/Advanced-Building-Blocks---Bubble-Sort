@@ -1,4 +1,3 @@
-# frozen_string_literal: true
 
 def bubble_sort(array_to_sort)
   sorted = false
