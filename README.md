@@ -20,7 +20,7 @@
 -Run code with ruby main.rb in your local terminal
 
 ## Live Demo
-[Live Demo Link](https://repl.it/@pastorp3/Advanced-Building-Blocks-Bubble-Sort#main.rb)
+[Live Demo Link](https://repl.it/@pastorp3/Advanced-Building-Blocks-Bubble-Sort-18#main.rb)
 
 ## Authors
 
