@@ -1,7 +1,8 @@
 def bubble_sort(array_to_sort)
 sorted = false
 until sorted
-sorted = true(0...array_to_sort.length - 1).each do |i |
+sorted = true
+(0...array_to_sort.length - 1).each do |i |
   if array_to_sort[i] > array_to_sort[i.next]
 array_to_sort[i], array_to_sort[i.next] = array_to_sort[i.next], array_to_sort[i]
 sorted = false
@@ -14,7 +15,8 @@ end
 def buble_sort_by(array)
 n = array.length
 loop do
-  switch = false(n - 1).times do |e |
+  switch = false
+  (n - 1).times do |e |
     if (yield array[e], array[e + 1]).positive ?
       array[e], array[e + 1] = array[e + 1], array[e]
   switch = true
