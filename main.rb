@@ -25,9 +25,12 @@ def bubble_sort (array_to_sort)
     break if switch == false 
     end 
     array
-
 end
 
+bsort_by = buble_sort_by(["hello","hey","hi","her"]) do |left,right|
+    left.length - right.length
+end
 
 p bubble_sort([8,5,7,2,3,6,4,200,84,1,0,6,2,7])
+puts bsort_by
 
