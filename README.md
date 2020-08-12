@@ -9,13 +9,14 @@
 
 -Ruby
 
-##Instalation
-- Download Ruby from https://www.ruby-lang.org/en/ tp run it locally 
+## Instal
+- Download Ruby from https://www.ruby-lang.org/en/ to run it locally .
 
-##Clone
+
+## Clone
 - Clone the repository from https://github.com/pastorp3/Advanced-Building-Blocks---Bubble-Sort
 
-##Run
+## Run
 -Run code with ruby main.rb in your local terminal
 
 ## Live Demo
@@ -39,7 +40,7 @@
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/sanadwj/Newsweek-clone/issues).
+Feel free to check the [issues page](https://github.com/pastorp3/Advanced-Building-Blocks---Bubble-Sort/issues).
 
 ## Show your support
 
