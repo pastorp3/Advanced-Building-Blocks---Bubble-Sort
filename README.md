@@ -3,13 +3,13 @@
 
 # Advanced-Building-Blocks---Bubble-Sort
 
-> This is a collaborative project with Ruby for a Buble_sort.
+> This is a collaborative project with Ruby for a Bubble_sort.
 
 ## Built With
 
 -Ruby
 
-## Instal
+## Install
 - Download Ruby from https://www.ruby-lang.org/en/ to run it locally .
 
 
